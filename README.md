@@ -5,13 +5,13 @@
 - I’m currently learning **Data Science** and **Machine Learning**.
 
 <p align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=frianlh&show_icons=true&theme=blueberry&border_radius=5" align=center>
+<img src="https://github-readme-stats.vercel.app/api?username=frianlh&show_icons=true&theme=blueberry&border_radius=5&hide_border=true" align=center>
 </p>
 
 <p align=center>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=frianlh&theme=blueberry&border_radius="5" align=center>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=frianlh&theme=blueberry&border_radius=5&hide_border=true" align=center>
 </p>
 
 <p align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frianlh&layout=compact&theme=blueberry&border_radius=5" align=center>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frianlh&layout=compact&theme=blueberry&border_radius=5&hide_border=true" align=center>
 </p>
