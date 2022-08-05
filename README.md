@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hello Everyone 👋
 
-<!--
-**frianlh/frianlh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Profile**
+- Let me introduce myself my name is **Fria Nurul Hidayat**, you can call me **Fria**.
+- I’m currently a Penultimate Statistics student at **University of Indonesia**.
+- I’m currently learning **Data Science** and **Machine Learning**.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Github Stats**
+<p align=center>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=frianlh&show_icons=true&theme=dark" align=center>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frianlh&layout=compact&theme=dark" align=center>
+</p>
