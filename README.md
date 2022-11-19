@@ -2,7 +2,7 @@
 
 - Let me introduce myself, my name's **Fria Nurul Hidayat**, you can call me **Fria**.
 - I’m currently a Final Year Statistics student at **University of Indonesia**.
-- I’m currently learning **Data Science** and **Machine Learning**.
+- I’m currently learning **Data Science**, **Machine Learning**, and **Back End**.
 
 <p align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=frianlh&show_icons=true&theme=blueberry&border_radius=5&hide_border=true&count_private=true" align=center>
